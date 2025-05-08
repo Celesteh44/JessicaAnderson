@@ -1,6 +1,6 @@
 ![Netlify examples](netlify-badge-examples.png)
 
-# Netlify Feature Tour
+# Jessica Herrera Anderson
 
 **Access this demo site**: https://feature-tour.netlify.app
 
