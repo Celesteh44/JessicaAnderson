@@ -14,11 +14,6 @@ last_name: Herrera Anderson
 status:
   icon: 🧑‍💻️
 
-# Is this the primary user of the site?
-superuser: 
-  true
-  description: Site administrator, providing tech support and maintaining content updates for the portfolio.
-
 # Role/position/tagline
 role: Information Tech & Networking - Cybersecurity Student | Tech-Savvy Problem Solver with API IT Support Experience.
 
