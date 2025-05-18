@@ -1,6 +1,6 @@
 ---
 title: "Jessica Herrera Anderson"
-summary: "Full-stack Developer and Cybersecurity Student with a passion for problem-solving in IT systems."
+summary: "Software Developer Intern and Cybersecurity Student with a passion for problem-solving in IT systems."
 first_name: "Jessica"
 last_name: "Herrera Anderson"
 superuser: true
