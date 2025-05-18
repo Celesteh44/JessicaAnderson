@@ -1,47 +1,112 @@
-![Netlify examples](netlify-badge-examples.png)
+---
+# Display name
+title: Jessica Herrera Anderson
+summary: Full-stack Developer and Cybersecurity Student with a passion for problem-solving in IT systems.
 
-# Netlify Feature Tour
+# Name pronunciation (optional)
+name_pronunciation: ''
 
-**Access this demo site**: https://feature-tour.netlify.app
+# Full name (for SEO)
+first_name: Jessica
+last_name: Herrera Anderson
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
+# Status emoji
+status:
+  icon: 🧑‍💻️
 
-## About this example site
+# Is this the primary user of the site?
+superuser: 
+  true
+  description: Site administrator, providing tech support and maintaining content updates for the portfolio.
 
-This site provides a path to get started learning about Netlify features.
+# Role/position/tagline
+role: Information Tech & Networking - Cybersecurity Student | Tech-Savvy Problem Solver with API IT Support Experience.
 
-- 📚 [Docs Getting Started Tutorial](https://docs.netlify.com/get-started/?utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples)
+# Organizations/Affiliations to display in Biography block
+organizations:
+  - name: Walmart
+    url: https://www.walmart.com
+  - name: OpenQQuantify - Software Developer Internship
+    url: 'https://www.openqquantify.com'
 
-## Speedily deploy your own version
+# Social network links
+profiles:
+  - icon: at-symbol
+    url: 'mailto:herrerajessica17@gmail.com'
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jessicaherreraanderson
+    label: LinkedIn
 
-Deploy your own version of this example site by selecting the Deploy to Netlify Button below. This will automatically:
+# Education
+education:
+  - area: BS Information Technology and Networking - Cybersecurity
+    institution: DeVry University
+    date_start: 2024-05-01
+    date_end: 2026-05-31
+    summary: |
+      TNSLS | The National Society of Leadership and Success, NextGen Hispanic Scholars Program, Women+Tech Scholars Program
 
-- Clone a copy of this repo to your own GitHub account
-- Create a new project in your [Netlify account](https://app.netlify.com/?utm_medium=social&utm_source=github&utm_campaign=devex&utm_content=devex-examples), linked to your new repo
-- Create an automated deployment pipeline to watch for changes on your repo
-- Build and deploy your new site
+      GPA: 4.0/4.0
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-feature-tour&utm_medium=social&utm_source=github&utm_campaign=devex&utm_content=devex-examples)
+# Work Experience
+work:
+  - position: Software Developer Intern
+    company_name: OpenQQuantify
+    company_url: 'https://www.openqquantify.com'
+    company_logo: ''
+    date_start: 2025-05-16
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Writing and testing code
+      - Debugging programs
+      - Collaborating with team members on various projects
+      - Participating in code reviews
+      - Contributing to the development of back-end web applications
 
-## Install and run this example locally
+  - position: Resolution Specialist
+    company_name: Walmart
+    company_url: 'https://www.walmart.com'
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Promoted to the CSP (Content Solutions Provider) within Walmart.com's department.
+      - Manage communication with B2B marketplace sellers via chat and email.
+      - Investigate and resolve API errors by analyzing JSON data (Postman).
+      - Provide clear explanations and examples to facilitate troubleshooting.
+      - Enhance client support with clarification via phone when needed.
 
-You can clone this example repo to explore its features and implementation and to run it locally.
+# Skills
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: devicon/python
+      - name: API Support & Integration
+        description: ''
+        percent: 90
+        icon: devicon/rstudio
 
-```shell
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Gardening
+        description: ''
+        percent: 90
+        icon: fa-solid fa-seedling
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
-# 1. Clone the repository to your local development environment
-git clone git@github.com:netlify/feature-tour.git
-
-# 2. Move into the project directory
-cd feature-tour
-
-# 3. Install code dependencies
-npm install
-
-# 4. Install the Netlify CLI to let you locally serve your site using Netlify's features
-npm install -g netlify-cli
-
-# 5. Serve your site using Netlify Dev
-netlify dev
-
-```
+# Languages
+languages:
+  - name: English
+    percent: 100
+---
